@@ -12,10 +12,10 @@
 
 ### Recusrion/Iterations as a programming concept (15 min)
 https://www.cs.mcgill.ca/~cs202/2013-01/web/lectures/jorg/05-loops.pdf
-http://www.advanced-ict.info/programming/recursion.html
 
 ### Iteration in Python (25 min)
-(Link to lesson)
+[Click here to access the lesson](lessons.loops.ipynb)
+
 * Using the For loop
 * Using the While loop
 * Ietarte through lists and dictionaries with loops
