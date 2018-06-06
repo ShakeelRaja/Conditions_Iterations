@@ -14,7 +14,7 @@
 https://www.cs.mcgill.ca/~cs202/2013-01/web/lectures/jorg/05-loops.pdf
 
 ### Iteration in Python (25 min)
-[Click here to access the lesson](lessons.loops.ipynb)
+[Click here to access the lesson](lessons/loops.ipynb)
 
 * Using the For loop
 * Using the While loop
