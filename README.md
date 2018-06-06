@@ -29,8 +29,8 @@ https://www.computerhope.com/jargon/c/contstat.htm
 https://www.teamten.com/lawrence/programming/intro/intro6.html
 
 ### Conditional Statements in Python (30 min)
-(Link to lesson)
-* If -else - elif statements
+[Click here to acces the lesson](lessons/conditionals.ipynb)
+* If - else - elif statements
 * Nested Conditonal statements
 * Filter and map with conditional statements
 
