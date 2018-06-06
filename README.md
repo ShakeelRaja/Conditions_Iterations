@@ -32,13 +32,14 @@ https://www.teamten.com/lawrence/programming/intro/intro6.html
 [Click here to acces the lesson](lessons/conditionals.ipynb)
 * If - else - elif statements
 * Nested Conditonal statements
-* Filter and map with conditional statements
+* [Mapping with conditional statements](lessons/map.ipynb)
+* Filtering with conditional statements(lessons/filter.ipynb)
 
 ### Python Conditions Lab (20 min)
-(Link to Lab)
+[Click here to access the conditionals lab](labs/conditionals_lab.ipynb)
 
 ### Python filter-map lab (25 min)
-(Link to lab)
+[Click here to access the map and filter lab](labs/map_filter_lab.ipynb)
 
 ### Discussion on Iteration and Conditions (10 min)
 
