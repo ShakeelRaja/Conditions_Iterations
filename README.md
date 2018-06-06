@@ -18,11 +18,11 @@ https://www.cs.mcgill.ca/~cs202/2013-01/web/lectures/jorg/05-loops.pdf
 
 * Using the For loop
 * Using the While loop
-* Ietarte through lists and dictionaries with loops
-* Nested loops
+* Iterate through lists and dictionaries using loops
+* Nested loops (to-do)
 
 ### Python Loops lab (30 min) 
-(link to lab)
+[Click here to access the loops lab](labs/loops_lab.ipynb)
 
 ### Conditional Statements as a programming concept (15 min)
 https://www.computerhope.com/jargon/c/contstat.htm
