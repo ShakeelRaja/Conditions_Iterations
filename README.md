@@ -33,7 +33,7 @@ https://www.teamten.com/lawrence/programming/intro/intro6.html
 * If - else - elif statements
 * Nested Conditonal statements
 * [Mapping with conditional statements](lessons/map.ipynb)
-* Filtering with conditional statements(lessons/filter.ipynb)
+* [Filtering with conditional statements](lessons/filter.ipynb)
 
 ### Python Conditions Lab (20 min)
 [Click here to access the conditionals lab](labs/conditionals_lab.ipynb)
